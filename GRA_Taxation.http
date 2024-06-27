@@ -1,0 +1,6 @@
+@GRA_Taxation_HostAddress = http://localhost:5207
+
+GET {{GRA_Taxation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
