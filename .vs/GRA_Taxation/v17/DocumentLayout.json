@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\frank.addae\\RiderProjects\\GRA_Taxation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0DF334E1-9267-47EE-BCF7-F8F68176CD6A}|GRA_Tax_UnitT\\GRA_Tax_UnitT.csproj|c:\\users\\frank.addae\\riderprojects\\gra_taxation\\gra_tax_unitt\\tests\\controllertext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DF334E1-9267-47EE-BCF7-F8F68176CD6A}|GRA_Tax_UnitT\\GRA_Tax_UnitT.csproj|solutionrelative:gra_tax_unitt\\tests\\controllertext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 214,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ControllerText.cs",
+              "DocumentMoniker": "C:\\Users\\frank.addae\\RiderProjects\\GRA_Taxation\\GRA_Tax_UnitT\\Tests\\ControllerText.cs",
+              "RelativeDocumentMoniker": "GRA_Tax_UnitT\\Tests\\ControllerText.cs",
+              "ToolTip": "C:\\Users\\frank.addae\\RiderProjects\\GRA_Taxation\\GRA_Tax_UnitT\\Tests\\ControllerText.cs",
+              "RelativeToolTip": "GRA_Tax_UnitT\\Tests\\ControllerText.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T23:41:26.367Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
